@@ -16,7 +16,7 @@ namespace test
         public Form1()
         {
             InitializeComponent();
-            buttonSave.Text = "Click me";
+            buttonSave.Text = "Click";
             testClass = new TestClass();
         }
 
