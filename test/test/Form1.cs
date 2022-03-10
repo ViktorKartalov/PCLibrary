@@ -12,17 +12,18 @@ namespace test
 {
     public partial class Form1 : Form
     {
-        private string text;
-
+        private TestClass testClass;
         public Form1()
         {
             InitializeComponent();
+            buttonSave.Text = "Click me";
+            testClass = new TestClass();
         }
 
         private void buttonSave_Click(object sender, EventArgs e)
         {
-            text = textBoxText.Text;
-            buttonSave.Text = text;
+            testClass.MyProperty = textBoxText.Text;
+            labelResult.Text = testClass.MyProperty;
         }
     }
 }
