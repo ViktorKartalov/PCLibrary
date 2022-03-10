@@ -9,3 +9,14 @@ viktor
 
 ivo-sdfgsdfg
 
+
+
+
+
+
+
+
+
+
+
+sen trope
