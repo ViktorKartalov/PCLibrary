@@ -56,5 +56,10 @@ namespace LibrarySoftware
         {
             dateTimePickerReturn.Value = dateTimePickerTaken.Value.AddDays(30);
         }
+
+        private void dateTimePickerDateCreated_ValueChanged(object sender, EventArgs e)
+        {
+            dateTimePickerExpirationDAt.Value = dateTimePickerDateCreated.Value.AddYears(1);
+        }
     }
 }

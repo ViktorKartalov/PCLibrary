@@ -8,3 +8,14 @@ C:\Users\Viki\Documents\Library Ivo and Viktor\PCLibrary\LibrarySoftware\Library
 C:\Users\Viki\Documents\Library Ivo and Viktor\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.exe
 C:\Users\Viki\Documents\Library Ivo and Viktor\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.pdb
 C:\Users\Viki\Documents\Library Ivo and Viktor\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.FormLibrarySoftware.resources
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.exe.config
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.exe
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.pdb
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.AssemblyReference.cache
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.SuggestedBindingRedirects.cache
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.FormLibrarySoftware.resources
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.Properties.Resources.resources
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.GenerateResource.cache
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.CoreCompileInputs.cache
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.exe
+D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.pdb
