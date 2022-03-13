@@ -72,7 +72,7 @@
             this.comboBoxSelection.Items.AddRange(new object[] {
             "Books",
             "Cards"});
-            this.comboBoxSelection.Location = new System.Drawing.Point(361, 10);
+            this.comboBoxSelection.Location = new System.Drawing.Point(373, 12);
             this.comboBoxSelection.Name = "comboBoxSelection";
             this.comboBoxSelection.Size = new System.Drawing.Size(121, 21);
             this.comboBoxSelection.TabIndex = 1;
