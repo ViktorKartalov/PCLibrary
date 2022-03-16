@@ -60,9 +60,12 @@
             this.textBoxFullName = new System.Windows.Forms.TextBox();
             this.labelFullName = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.textBoxSearch = new System.Windows.Forms.TextBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBoxBook.SuspendLayout();
             this.groupBoxCard.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // comboBoxSelection
@@ -95,7 +98,7 @@
             this.groupBoxBook.Controls.Add(this.labelAuthor);
             this.groupBoxBook.Controls.Add(this.textBoxTitle);
             this.groupBoxBook.Controls.Add(this.labelTitle);
-            this.groupBoxBook.Location = new System.Drawing.Point(1, 0);
+            this.groupBoxBook.Location = new System.Drawing.Point(4, 0);
             this.groupBoxBook.Name = "groupBoxBook";
             this.groupBoxBook.Size = new System.Drawing.Size(354, 374);
             this.groupBoxBook.TabIndex = 2;
@@ -252,7 +255,7 @@
             this.groupBoxCard.Controls.Add(this.labelEGN);
             this.groupBoxCard.Controls.Add(this.textBoxFullName);
             this.groupBoxCard.Controls.Add(this.labelFullName);
-            this.groupBoxCard.Location = new System.Drawing.Point(825, 23);
+            this.groupBoxCard.Location = new System.Drawing.Point(825, 21);
             this.groupBoxCard.Name = "groupBoxCard";
             this.groupBoxCard.Size = new System.Drawing.Size(339, 374);
             this.groupBoxCard.TabIndex = 3;
@@ -379,11 +382,31 @@
             this.dataGridView1.Size = new System.Drawing.Size(408, 320);
             this.dataGridView1.TabIndex = 4;
             // 
+            // textBoxSearch
+            // 
+            this.textBoxSearch.Location = new System.Drawing.Point(578, 13);
+            this.textBoxSearch.Name = "textBoxSearch";
+            this.textBoxSearch.Size = new System.Drawing.Size(202, 20);
+            this.textBoxSearch.TabIndex = 5;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.Control;
+            this.pictureBox1.Image = global::LibrarySoftware.Properties.Resources.searchTransparent;
+            this.pictureBox1.Location = new System.Drawing.Point(553, 13);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(19, 20);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 6;
+            this.pictureBox1.TabStop = false;
+            // 
             // FormLibrarySoftware
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(796, 377);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.textBoxSearch);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.groupBoxCard);
             this.Controls.Add(this.comboBoxSelection);
@@ -399,7 +422,9 @@
             this.groupBoxCard.ResumeLayout(false);
             this.groupBoxCard.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -436,6 +461,8 @@
         private System.Windows.Forms.TextBox textBoxFullName;
         private System.Windows.Forms.Label labelFullName;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.TextBox textBoxSearch;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

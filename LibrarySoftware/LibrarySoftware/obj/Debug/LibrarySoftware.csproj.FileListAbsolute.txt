@@ -19,3 +19,13 @@ D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySof
 D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.CoreCompileInputs.cache
 D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.exe
 D:\Actual Library\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.pdb
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.exe.config
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.exe
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\bin\Debug\LibrarySoftware.pdb
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.FormLibrarySoftware.resources
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.Properties.Resources.resources
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.exe
+C:\Users\Student\Documents\Виктор 11 а\ITC LIBRARY\PCLibrary\LibrarySoftware\LibrarySoftware\obj\Debug\LibrarySoftware.pdb
